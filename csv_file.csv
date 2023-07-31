@@ -1,0 +1,6 @@
+Dir,Files
+DIRECTORY - Example_file,"['FILE - csv_file.csv = 0 byte', 'FILE - dict.pickle = 3 byte', 'FILE - dir.pickle = 730 byte', 'FILE - list.json = 132 byte']"
+DIRECTORY - Example_file\dir1,['FILE - new.txt = 0 byte']
+DIRECTORY - Example_file\dir2,['FILE - home.txt = 0 byte']
+DIRECTORY - Example_file\dir2\dir4,['FILE - hot.txt = 0 byte']
+DIRECTORY - Example_file\dir3,"['FILE - car.txt = 0 byte', 'FILE - trip.txt = 0 byte']"
